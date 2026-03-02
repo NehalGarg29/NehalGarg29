@@ -4,13 +4,6 @@
   <strong>Software Engineer | Full Stack Developer | AI/ML & Data Engineer</strong><br>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nehal-garg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:nehalgar@usc.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>&nbsp;
-
-</p>
-
 ---
 
 ## About Me
