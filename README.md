@@ -73,6 +73,6 @@ Focus:      Software Engineer | Full Stack Development | AI/ML Development
 
 
 ## Let's Connect
-<p align="center"> <b>🟢 &nbsp; Open to collaborations and exciting opportunities!</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/nehal-garg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:nehalgar@usc.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp; <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a> </p>
+<p align="center"> <b>🟢 &nbsp; Open to collaborations and exciting opportunities!</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/nehal-garg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:nehalgar@usc.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp; <a href="https://nehalgargtechlife.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a> </p>
 
 ---
